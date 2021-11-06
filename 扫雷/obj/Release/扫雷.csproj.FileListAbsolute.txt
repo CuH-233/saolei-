@@ -1,0 +1,10 @@
+E:\c#\扫雷\扫雷\扫雷\bin\Release\扫雷.exe.config
+E:\c#\扫雷\扫雷\扫雷\bin\Release\扫雷.exe
+E:\c#\扫雷\扫雷\扫雷\bin\Release\扫雷.pdb
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.Properties.Resources.resources
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.csproj.GenerateResource.Cache
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.exe
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.pdb
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.csprojResolveAssemblyReference.cache
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.saolei.resources
+E:\c#\扫雷\扫雷\扫雷\obj\Release\扫雷.main.resources
